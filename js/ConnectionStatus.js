@@ -17,7 +17,7 @@ var remoteaddress = "http://www.yahoo.com";
 // Only needed if remotepole is true
 var errormessage = "Connection to the server has been interupted. Please Try Again.";
 // This is the message the user will see.
-var usenativediv = false;
+var usenativediv = true;
 //Falsewill call show()/hide() on a div you specify by id. This is a usefel way to use this plugin with your sites existing features.
 var foreigndivid = "myDIVid";
 //Only needed if you dont want to use my div. Make sure you hide it in document ready or it will be there for a few seconds and confuse the client.
