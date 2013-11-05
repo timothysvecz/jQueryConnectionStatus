@@ -1,0 +1,35 @@
+{
+    "name": "jQueryConnectionStatus ",
+    "title": "jQueryConnectionStatus Plugin",
+    "description": "A connection status plugin for jQuery.",
+    "keywords": [
+        "connection",
+        "status"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Timothy Svecz",
+        "url": "https://github.com/timothysvecz/jQueryConnectionStatus"
+    },
+    "maintainers": [
+        {
+            "name": "Timothy Svecz",
+            "email": "social@timsve.cz",
+            "url": "https://github.com/timothysvecz/jQueryConnectionStatus"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/timothysvecz/jQueryConnectionStatus/blob/master/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/timothysvecz/jQueryConnectionStatus/issues",
+    "homepage": "https://github.com/timothysvecz/jQueryConnectionStatus",
+    "docs": "https://github.com/timothysvecz/jQueryConnectionStatus",
+    "download": "http://code.jquery.com/#jQueryConnectionStatus",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
+
