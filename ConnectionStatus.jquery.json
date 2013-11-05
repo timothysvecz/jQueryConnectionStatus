@@ -1,7 +1,7 @@
 {
     "name": "ConnectionStatus",
     "title": "jQuery ConnectionStatus Plugin",
-    "description": "A connection status plugin for jQuery.",
+    "description": "A connection status plugin for jQuery. The plugin allows you to use a default DIV or a DIV you define to display a connection availability notice to the client. In addition, you can disable inputs such as buttons and text.",
     "keywords": [
         "connection",
         "status"
