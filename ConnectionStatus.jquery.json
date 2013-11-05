@@ -6,7 +6,7 @@
         "connection",
         "status"
     ],
-    "version": "1.0.3",
+    "version": "1.0.4",
     "author": {
         "name": "Timothy Svecz",
         "url": "https://github.com/timothysvecz/jQueryConnectionStatus"
