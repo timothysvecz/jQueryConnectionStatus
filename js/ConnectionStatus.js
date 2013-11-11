@@ -77,7 +77,7 @@ function handleStatus(status) {
 			});
 		}
 		if (usenativediv == true) {
-			var thediv = "<div style='position:fixed;bottom:0;left:0px;text-align:center;font-size:25px;background-color:#EACBCB;color:#BF6566;width:100%;' id='alertdiv' >" + errormessage + "</div>";
+			var thediv = "<div style='position:fixed;bottom:0;left:0px;text-align:center;font-size:25px;background-color:#EACBCB;color:#BF6566;z-index:9999;width:100%;' id='alertdiv' >" + errormessage + "</div>";
 			$('body').append($(thediv));
 		} else {
 			$('#' + foreigndivid).show();
